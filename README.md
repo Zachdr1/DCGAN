@@ -3,6 +3,8 @@
 ## [DCGAN](/DCGAN)
 DCGAN implementation using Tensorflow + Keras. <br/>
 Original paper: https://arxiv.org/pdf/1511.06434 <br/>
+### CIFAR10 Results after 300 epochs (Generated Images) <br/>
+![](DCGAN/CIFAR10/results.png) <br/>
 ### MNIST Results (Generated Images) <br/>
 ![](DCGAN/MNIST/results/download(1).png)
 ![](DCGAN/MNIST/results/download(2).png)
