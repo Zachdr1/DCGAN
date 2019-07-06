@@ -3,7 +3,7 @@
 ## [DCGAN](/DCGAN)
 DCGAN implementation using Tensorflow + Keras. <br/>
 Original paper: https://arxiv.org/pdf/1511.06434 <br/>
-### Faces dataset results after 100 epochs. <br/>
+### Georgia Tech dataset results after 100 epochs. <br/>
 This dataset consisted of people sitting in front of a book shelf. The GAN did a good job of getting the bookshelf, books, shirt, and general structure of the person; however, it struggled in generating a face. I think with another 100 epochs of training the generator will learn how to create faces better.<br/>
 ![](DCGAN/FACES/results.png) <br/>
 ### CIFAR10 results after 300 epochs <br/>
