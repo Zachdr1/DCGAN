@@ -3,5 +3,8 @@ DCGAN/MINST/mnist
 DCGAN/MNIST/output
 DCGAN/CIFAR10/.ipynb_checkpoints
 DCGAN/CIFAR10/logs
+DCGAN/FACES/logs
+DCGAN/FACES/.ipynb_checkpoints
+DCGAN/FACES/dcgan_fm.ipynb
 DCGAN_feat_match
 .ipynb_checkpoints
