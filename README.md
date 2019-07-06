@@ -10,6 +10,7 @@ This dataset consisted of people sitting in front of a book shelf. The GAN did a
 The GAN was able to get the general style of this dataset. The results could definitely be improved with more hyperparameter tuning; however, other GAN architectures such as Conditional GAN have been proven to produce better results on this dataset. <br/>
 ![](DCGAN/CIFAR10/results.png) <br/>
 ### MNIST results <br/>
+The GAN did very well on this dataset and produced images that are indistinguishable from images of the original dataset. <br/>
 ![](DCGAN/MNIST/results/download(1).png)
 ![](DCGAN/MNIST/results/download(2).png)
 ![](DCGAN/MNIST/results/download(3).png) <br/>
