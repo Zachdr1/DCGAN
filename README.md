@@ -1,6 +1,4 @@
-# GANs
-
-## [DCGAN](/DCGAN)
+# [DCGAN](/DCGAN)
 DCGAN implementation using Tensorflow + Keras. <br/>
 Original paper: https://arxiv.org/pdf/1511.06434 <br/>
 ### Georgia Tech dataset results after 100 epochs. <br/>
